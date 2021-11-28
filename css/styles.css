@@ -667,7 +667,6 @@ img {
   left: 0;
   height: 100%;
   padding: 63px 24px;
-  overflow: auto;
   transform: translateY(100%);
 
   font-size: 18px;
